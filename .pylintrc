@@ -1,0 +1,6 @@
+[MASTER]
+extension-pkg-whitelist = pydantic
+
+[FORMAT]
+max-line-length = 88
+disable = C0330, C0326, C0111
