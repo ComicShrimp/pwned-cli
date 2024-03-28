@@ -14,7 +14,7 @@ requests = "^2.26.0"
 flake8 = "^3.9.2"
 mypy = "^0.910"
 pylint = "^2.11.1"
-black = "^21.9b0"
+black = "^24.3"
 types-requests = "^2.25.9"
 
 [build-system]
